@@ -1,6 +1,6 @@
 ---
 id: configuration
-title: Configuration
+title: Configuration !
 ---
 
 Configuration for scalafmt is defined in a plain text file `.scalafmt.conf`
