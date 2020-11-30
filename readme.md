@@ -1,4 +1,4 @@
-# scalafmt
+# scalafmt 
 [![Build Status](https://img.shields.io/github/workflow/status/scalameta/scalafmt/CI)](https://github.com/scalameta/scalafmt/actions)
 [![Build status](https://ci.appveyor.com/api/projects/status/7gha7cxm5lw8fsc3)](https://ci.appveyor.com/project/olafurpg/scalafmt/branch/master)
 [![Join the chat at https://gitter.im/scalameta/scalafmt](https://badges.gitter.im/scalameta/scalafmt.svg)](https://gitter.im/scalameta/scalafmt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
