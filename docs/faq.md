@@ -31,7 +31,7 @@ of different formatting solutions.
 I am sure that scalafmt could benefit greatly from micro optimizations. Any help
 here is appreciated.
 
-## Code formatters create unnecessary diffs!
+## Code formatters create unnecessary diffs! 
 
 That's not a question, but I agree that code formatters like scalafmt do
 sometimes increase the size of diffs in code reviews. I still believe it's worth
