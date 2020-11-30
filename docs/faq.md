@@ -2,7 +2,7 @@
 id: faq
 title: FAQ / Troubleshooting
 ---
-
+!!
 ## Why not Scalariform?
 
 [Scalariform](http://scala-ide.org/scalariform/) does an excellent job of
