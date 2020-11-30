@@ -18,7 +18,7 @@ Finally, scalafmt is my Master's thesis project. I thought it would be a fun
 challenge to write a code formatter :)
 
 ## Why is scalafmt so slow?
-
+fef
 My benchmarks show that scalafmt is for most common cases around 4-6x slower
 than scalariform (btw, scalariform is already impressively fast). This means
 that formatting your average 1.000 LOC file on modern hardware will take around
