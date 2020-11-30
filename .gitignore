@@ -40,3 +40,5 @@ metals.sbt
 
 node_modules/
 .java-version
+
+# first commit
