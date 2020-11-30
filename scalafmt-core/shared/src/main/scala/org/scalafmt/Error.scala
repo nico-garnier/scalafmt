@@ -16,6 +16,7 @@ import scala.util.control.NoStackTrace
 sealed abstract class Error(msg: String) extends Exception(msg)
 
 object Error {
+  // TEST
   import LoggerOps._
 
   def reportIssue: String =
