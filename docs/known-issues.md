@@ -10,7 +10,7 @@ The following are the biggest known issues with scalafmt:
 
 ## Deeply nested code
 
-AKA. "Search state exploded"
+AKA. "Search state exploded".
 
 0.5.0 made big improvements on this issue. In my test corpus, only 13 out of
 27.000 source files trigger this error now.
